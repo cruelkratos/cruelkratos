@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garv Sethi</h1>
-<h3 align="center">First Year CSE Student at IIT Roorkee</h3>
+<h3 align="center">Second Year CSE Student at IIT Roorkee</h3>
 
 - 🔭 I’m currently working on **nothing lol**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **garv_s@cs.iitr.ac.in**
 
-- ⚡ Fun fact **i have 5 restraining orders**
+- ⚡ Fun fact **i have 5 restraining orders against me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
