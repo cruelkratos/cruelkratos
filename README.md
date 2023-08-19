@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **nothing lol**
 
-- 📝 I regularly write articles on [https://medium.com/@cruelkratos/classification-algorithms-gaussian-linear-discriminant-analysis-lda-and-naive-bayes-38c016bd836b](https://medium.com/@cruelkratos/classification-algorithms-gaussian-linear-discriminant-analysis-lda-and-naive-bayes-38c016bd836b)
+- 📝 I regularly write articles on [https://medium.com/@cruelkratos/classification-algorithms-gaussian-linear-discriminant-analysis-lda-and-naive-bayes-38c016bd836b](https://medium.com/@cruelkratos)
 
 - 📫 How to reach me **garv_s@cs.iitr.ac.in**
 
