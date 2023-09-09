@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cruelkratos/](https://medium.com/@cruelkratos/classification-algorithms-gaussian-linear-discriminant-analysis-lda-and-naive-bayes-38c016bd836b)
 
-- 📫 How to reach me **garv_s@cs.iitr.ac.in**
+- 📫 How to reach me **cruelkratos@gmail.com**
 
 - ⚡ Fun fact **i have 5 restraining orders**
 
