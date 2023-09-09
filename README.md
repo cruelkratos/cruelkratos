@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garv Sethi</h1>
+<h1 align="center">Hi 👋, I'm [REDACTED]</h1>
 <h3 align="center">Second Year CSE Student at IIT Roorkee</h3>
 
 - 🔭 I’m currently working on **nothing lol**
