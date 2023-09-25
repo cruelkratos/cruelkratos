@@ -13,5 +13,5 @@
 <p align="left">
 <a href="https://medium.com/@cruelkratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cruelkratos" height="30" width="40" /></a>
 <a href="https://twitter.com/cruelkratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cruelkratos" height="30" width="40" /></a>
-
-[![reddit](https://img.shields.io/reddit/user-karma/combined/Ramadhir-Singh)]([https://katherineoelsner.com/](https://www.reddit.com/user/Ramadhir-Singh)https://www.reddit.com/user/Ramadhir-Singh)
+<a href="https://codeforces.com/profile/cruelkratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cruelkratos" height="30" width="40" /></a>
+[![reddit](https://img.shields.io/reddit/user-karma/combined/Ramadhir-Singh)]([https://katherineoelsner.com/](https://www.reddit.com/user/Ramadhir-Singh)https://www.reddit.com/user/Ramadhir-Singh)</p>
