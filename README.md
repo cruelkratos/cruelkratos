@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **cruelkratos@gmail.com**
 
-- ⚡ Fun fact **i have 5 restraining orders**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
