@@ -12,5 +12,8 @@
 ![image](https://github.com/cruelkratos/cruelkratos/assets/116339436/431db284-f31b-459f-86e3-7759334e831c)
 
 </div>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,latex,js,react,neovim,linux,ps,xd)](https://skillicons.dev)
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,django,react,cpp,js,py,java,go,bootstrap,c,css,discord,express,figma,firebase,github,html,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
