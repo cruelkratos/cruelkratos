@@ -16,7 +16,7 @@
 
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://skillicons.dev/icons?i=c,cpp,latex,py,js,react,django,vscode,ps,xd,git,github,linux,neovim,vim" />
   </a>
 </p>
