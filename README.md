@@ -12,4 +12,5 @@
 ![image](https://github.com/cruelkratos/cruelkratos/assets/116339436/431db284-f31b-459f-86e3-7759334e831c)
 
 </div>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,latex,js,react,neovim,linux,ps,xd,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,latex,js,react,neovim,linux,ps,xd)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
