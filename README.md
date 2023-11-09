@@ -8,7 +8,6 @@
  
  😳 I enjoy CP....on codeforces
 
-
 ![image](https://github.com/cruelkratos/cruelkratos/assets/116339436/431db284-f31b-459f-86e3-7759334e831c)
 
 </div>
