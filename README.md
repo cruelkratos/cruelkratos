@@ -2,7 +2,8 @@
 <h3 align="center">Second Year CSE Student at IIT Roorkee</h3>
 
 <div align = "center">
- 🔭 I’m currently working on **nothing lol**
+ 🔭 I’m currently working on nothing lol
+
 
  📝 I regularly write articles on [https://medium.com/@cruelkratos/](https://medium.com/@cruelkratos/classification-algorithms-gaussian-linear-discriminant-analysis-lda-and-naive-bayes-38c016bd836b)
  
