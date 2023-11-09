@@ -14,6 +14,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,react,cpp,js,py,java,go,bootstrap,c,css,discord,express,figma,firebase,github,html,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,latex,py,js,react,django,vscode,ps,xd,git,github,linux,neovim,vim" />
   </a>
 </p>
