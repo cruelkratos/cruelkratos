@@ -9,7 +9,7 @@
 - 2026 :
 ```cpp
 if(become normal human){
-start podcast like joe rogan;
+start a podcast like joe rogan;
 }
 else kms;
 ```
