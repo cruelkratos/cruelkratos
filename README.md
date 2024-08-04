@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm [REDACTED]</h1>
-<h3 align="center">Second Year CSE Student at IIT Roorkee</h3>
+<h3 align="center">Third Year CSE Student at IIT Roorkee</h3>
 
 
 # 4 year Plan:
