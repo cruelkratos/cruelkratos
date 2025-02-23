@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm [REDACTED]</h1>
 <h3 align="center">Third Year CSE Student at IIT Roorkee</h3>
 <h4 align="center">Upcoming mastikhor @ prembar</h4>
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruelkratos&show_icons=true&theme=tokyonight&exclude_repo=Fourier-Analysis-in-Python,MLP-and-BackPropagation-from-scratch,Pairs-Trading-Algorithm&layout=compact" />
+</div>
 
 # 4 year Plan:
 
