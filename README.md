@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=cruelkratos&show_icons=true&theme=github_dark" />
+<img src="https://pvt-repo-github-readme-git-main-cruelkratos-projects.vercel.app/api?username=cruelkratos&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
 
 <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cruelkratos&theme=github_dark" />
 
