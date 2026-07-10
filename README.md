@@ -50,14 +50,14 @@
 <picture>
   <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bec8ca16-c140-4d52-90d6-6824f66a2805">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bec8ca16-c140-4d52-90d6-6824f66a2805"> -->
-  <img alt="cutu" width="200" height="200" src="assets/sticker_olarakk-removebg-preview.webp">
+  <img alt="cutu" width="170" height="284" src="assets/we-bare-bears.webp">
 </picture>
 
 
 <div align = "center">
 
 
-![Cheesecake Badge](https://img.shields.io/badge/CheeseCake%20Khila%20Do%20%F0%9F%8D%B0-0969da?style=for-the-badge)
+![Cheesecake Badge](https://img.shields.io/badge/Professional%20Cheesecake%20Enjoyer%20%F0%9F%8D%B0-0969da?style=for-the-badge)
 
 
 
