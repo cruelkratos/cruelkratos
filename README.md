@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Garv</h1>
 <h3 align="center">
-  Software Engineer at Microsoft
-  <img
+  Software Engineer 😋
+  <!-- <img
     src="https://api.iconify.design/logos:microsoft-icon.svg"
     alt="Microsoft"
-    width="15"/>
+    width="15"/> -->
 </h3>
 
 
