@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Garv</h1>
 <h3 align="center">
-  Software Engineer 😋
-  <!-- <img
-    src="https://api.iconify.design/logos:microsoft-icon.svg"
-    alt="Microsoft"
-    width="15"/> -->
+  <h3 align="center">
+  Software Engineer @Apple
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://api.iconify.design/simple-icons/apple.svg?color=%23ffffff">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://api.iconify.design/simple-icons/apple.svg?color=%23000000">
+    <img
+      src="https://api.iconify.design/simple-icons/apple.svg?color=%23000000"
+      alt="Apple"
+      width="16"
+      height="16"
+      style="vertical-align: -2px; margin: 0 3px;">
+  </picture>😋
 </h3>
 
 
