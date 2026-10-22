@@ -41,7 +41,7 @@
 <picture>
   <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bec8ca16-c140-4d52-90d6-6824f66a2805">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bec8ca16-c140-4d52-90d6-6824f66a2805"> -->
-  <img alt="cutu" width="170" height="284" src="assets/we-bare-bears.webp">
+  <img alt="cutu" width="187" height="312" src="assets/we-bare-bears.webp">
 </picture>
 
 
