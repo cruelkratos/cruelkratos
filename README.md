@@ -15,7 +15,7 @@
       width="16"
       height="16"
       style="vertical-align: -2px; margin: 0 3px;">
-  </picture>😋
+  </picture>
 </h3>
 
 
