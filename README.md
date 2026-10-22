@@ -1,27 +1,7 @@
-<h1 align="center">Hi 👋, I'm Garv</h1>
-<h3 align="center">
-  <h3 align="center">
-  Software Engineer @Apple
-    <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://api.iconify.design/simple-icons/apple.svg?color=%23ffffff">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://api.iconify.design/simple-icons/apple.svg?color=%23000000">
-    <img
-      src="https://api.iconify.design/simple-icons/apple.svg?color=%23000000"
-      alt="Apple"
-      width="16"
-      height="16"
-      style="vertical-align: -0.5px; margin: 0 3px;">
-  </picture>
-</h3>
-
 
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://pvt-repo-github-readme-git-main-cruelkratos-projects.vercel.app/api?username=cruelkratos&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
@@ -31,7 +11,7 @@
   <img
     alt="GitHub Stats"
     src="https://pvt-repo-github-readme-git-main-cruelkratos-projects.vercel.app/api?username=cruelkratos&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
-</picture>
+</picture> -->
 
 <br>
 <br>
@@ -66,9 +46,9 @@
 
 
 <div align = "center">
+  
+![Procrastinator Badge](https://img.shields.io/badge/Full%20Time%20Procrastinator-FFD700?style=for-the-badge)
 
-
-![Cheesecake Badge](https://img.shields.io/badge/Professional%20Cheesecake%20Enjoyer%20%F0%9F%8D%B0-0969da?style=for-the-badge)
 
 
 
